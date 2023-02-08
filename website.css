@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+body{
+ 
+}
+
+.navbar{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
+.navbar ul {
+    overflow: hidden;
+    list-style: none;
+    
+   
+}
+.navbar li{
+    float: left;
+    padding: 30px;
+   font-size: 30px;
+   text-decoration: none;
+   cursor: pointer;
+   
+}
+.intro{
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    border: 3px solid white;
+    
+}
+.info{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    font-size: 30px;
+    border: 3px  solid white;
+}
+.info ul{
+    list-style: none;
+
+}
+.info li{
+    padding: 20px;
+}
+.expect
+{
+    
+    font-size: 40px;
+    border: 3px solid white;
+}
+.expect h1{
+    text-align: center;
+    border-bottom: 4px solid white;
+}
+.expect li{
+   padding: 20px;
+}
+.reality
+{
+    
+    font-size: 40px;
+    border: 3px solid white;
+}
+.reality h1{
+    text-align: center;
+    border-bottom: 4px solid white;
+}
+.reality li{
+    padding: 20px;
+}
